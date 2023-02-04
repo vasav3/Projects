@@ -1,0 +1,8 @@
+.a{
+	float: right;
+	list-style-type: none;
+}
+.a li{
+	float: left;
+	margin: 20px;
+}
